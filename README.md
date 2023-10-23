@@ -10,8 +10,8 @@ Advanced malware was examined within a virtual machine disk file, leveraging the
 <h2>Languages and Utilities Used</h2>
 
 - <b>[AutoPsy Forensic tool](https://www.autopsy.com/)</b> 
-- <b>WireShark</b>
-- <b>Veracrypt</b>
+- <b>[WireShark](https://www.wireshark.org/a)</b>
+- <b>[Veracrypt](https://www.veracrypt.fr/code/VeraCrypt/)</b>
 
 <h2>Environments Used </h2>
 
