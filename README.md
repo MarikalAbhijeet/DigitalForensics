@@ -15,13 +15,14 @@ Advanced malware was examined within a virtual machine disk file, leveraging the
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>OS: </b> Microsoft Windows 11 Home Single Language
+- <b>Version: </b>10.0.22000 Build 22000
 
-<h2>Program walk-through:</h2>
+<h2>Investigation walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+REPOSITORY #1: ENPM687 Final XP. vmwarevm <br/>
+<img src="https://i.imgur.com/jWmq7bt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
